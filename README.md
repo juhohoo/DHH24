@@ -1,5 +1,7 @@
 # DHH24
-Code for DHH24 hackathon project. Author: Juho Hotari
+Code for DHH24 hackathon project. 
+
+Author: Juho Hotari
 
 Contents
 - Illustration_Density_Plot: Python code to plot total price with respect to illustration density.
